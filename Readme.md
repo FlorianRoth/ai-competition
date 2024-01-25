@@ -7,6 +7,8 @@
 
 ## Projekt ausführen
 
+Benötigt [.NET 8.0](https://dotnet.microsoft.com/en-us/download)
+
 ### Projekt bauen
 ````sh
 dotnet build -c Release
